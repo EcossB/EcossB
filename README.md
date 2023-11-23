@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Erwing Coss</h1>
-<h3 align="center">A passionate backend developer from Dominican republic 🕹💻</h3>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288CB8&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Erwing+Coss;A+passionate+backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+" alt="Typing SVG" />
+</a>
+</h1>
 
 - 🌱 I’m currently learning **Spring and Java On ALura LATAM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EcossB](https://github.com/EcossB)
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **Java, Python, Mysql and backend Stuff**
 
 - 📫 How to reach me **erwingcoss21@hotmail.com**
 
