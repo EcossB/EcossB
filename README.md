@@ -33,3 +33,6 @@
   </a>
 </p>
 
+<h3 align="left">Stats:</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcossB&show_icons=true&theme=radical)
