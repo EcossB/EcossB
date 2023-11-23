@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erwingcossb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erwingcossb" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/erwingcossb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwing armando coss batista" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/erwingcossb](https://www.linkedin.com/in/erwing-armando-coss-batista-602366234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwing armando coss batista" height="30" width="40" /></a>
 <a href="https://instagram.com/erwing coss batista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erwing coss batista" height="30" width="40" /></a>
 </p>
 
