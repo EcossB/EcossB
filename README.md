@@ -8,7 +8,7 @@
 </a>
 </h1>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Angular, Typescript and .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EcossB](https://github.com/EcossB)
 
