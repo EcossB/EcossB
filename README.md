@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular, Typescript and .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EcossB](https://github.com/EcossB)
+- 👨‍💻 All of my projects are available at [[https://github.com/EcossB](https://github.com/EcossB)](https://github.com/EcossB?tab=repositories)
 
 - 💬 Ask me about **Java, C#, Typescript, and all kind of Stuff**
 
