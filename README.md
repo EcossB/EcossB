@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EcossB](https://github.com/EcossB)
 
-- 💬 Ask me about **Java, Python, Mysql and backend Stuff**
+- 💬 Ask me about **Java, C#, Typescript, and all kind of Stuff**
 
 - 📫 How to reach me **erwingcoss21@hotmail.com**
 
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,django,mysql,sqlite,idea,eclipse,vscode,git,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,django,cs,dotnet,mysql,html,css,bootstrap,angular,ts,js,idea,eclipse,vscode,visualstudio,git,postman,docker" />
   </a>
 </p>
 
